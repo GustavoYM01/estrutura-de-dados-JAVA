@@ -1,5 +1,8 @@
 # Algoritmos de Estrutura de Dados em JAVA
 
++ Busca binária;
++ Lista ligada;
++ Ávore binária;
 + Bubble sort;
 + Heap sort;
 + Quick sort;
