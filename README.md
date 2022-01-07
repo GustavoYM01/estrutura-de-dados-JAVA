@@ -5,7 +5,8 @@
 + Quick sort;
 + Selection sort;
 + Shell sort;
-+ Insertion sort.
++ Insertion sort;
++ Grafos.
 
 > Status: Em desenvolvimento... ⚠️
 
