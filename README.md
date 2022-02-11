@@ -17,4 +17,4 @@
 
 ## Para acessar o(s) código(s) de cada projeto java: 
 
-```pasta do projeto > src/nome_do_pacote > Program.java ou algo semelhante```
+```pasta do projeto > src/nome_do_pacote > Program.java```
